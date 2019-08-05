@@ -1,10 +1,10 @@
 # awesome-georgian-podcasts
-This is a curated list of Georgian podcasts grouped by iTunes categories.   
-Something missing? Check out [contribution guide](CONTRIBUTING.md).
-Rest of the repo will primarily be in Georgian. For English version use Google Translate. Here's the [link of translated repo](https://translate.google.com/translate?hl=en&sl=ka&tl=en&u=https%3A%2F%2Fgithub.com%2Fgeorgegach%2Fawesome-georgian-podcasts).
+This is a curated list of awesome Georgian podcasts grouped by iTunes categories (kinda).   
+Your favorite's missing? Check out [contribution guide](CONTRIBUTING.md) to add it.
+The rest of the repo will primarily be in Georgian. For English version use Google Translate. Here's the [link to translated repo](https://translate.google.com/translate?hl=en&sl=ka&tl=en&u=https%3A%2F%2Fgithub.com%2Fgeorgegach%2Fawesome-georgian-podcasts).
 
-ამ სიაში თავს მოვუყრით საუკეთესო ქართულ პოდკასტებს დაჯგუფებული კატეგორიების მიხედვით.   
-თუ რამე აკლია და დამატება გინდა, წაიკითხე [კონტრიბუციის სახელმძღვანელო](CONTRIBUTING.md) და აუცილებლად დავამატებთ!
+ამ სიაში თავს მოვუყრით საუკეთესო ქართულ პოდკასტებს დაჯგუფებული აიტუნსის კატეგორიების მიხედვით.   
+თუ შენი ფავორიტი პოდკასტი აკლია აქაურობას და დამატება გინდა, გადახედე [კონტრიბუციის სახელმძღვანელოს](CONTRIBUTING.md), გამოუშვი ფულ რექვესთი ან შეავსე გუგლის ფორმა და აუცილებლად დავამატებთ!
 
 ___
 <!--AGC: AUTO GENERATED CONTENT STARTS HERE -->
