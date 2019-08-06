@@ -27,6 +27,9 @@ function buildTableForCat(cat, pods) {
         if (pod.spotify && pod.spotify != '')
             entry += `[<img src="assets/spotify.png" height=22>](${pod.spotify}) `
 
+        if (pod.youtube && pod.youtube != '')
+            entry += `[<img src="assets/youtube.png" height=22>](${pod.youtube}) `
+
         entry += `|`
         md += entry
     });

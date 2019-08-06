@@ -54,13 +54,14 @@
     ,{
         "title": "ვატო და ტატოს პოდკასტი",
         "author": "ვატო, ტატო",
-        "description": "",
+        "description": "\"ყველაზე თესლი პოდკასტი\"-ო",
         "website": "https://vatotato.podbean.com",
         "category": "კომედია",
         "logo": "https://pbcdn1.podbean.com/imglogo/image-logo/5255370/logonew_300x300.jpg",
         "itunes": "https://podcasts.apple.com/us/podcast/%E1%83%95%E1%83%90%E1%83%A2%E1%83%9D-%E1%83%93%E1%83%90-%E1%83%A2%E1%83%90%E1%83%A2%E1%83%9D%E1%83%A1-%E1%83%9E%E1%83%9D%E1%83%93%E1%83%99%E1%83%90%E1%83%A1%E1%83%A2%E1%83%98-vato-and-tatos-podcast/id1473564719",
         "soundcloud": "https://soundcloud.com/vatotato",
         "spotify": "https://open.spotify.com/show/4q7R2uVjqXBQ1iEUHL431T",
-        "gpod": " https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3ZhdG90YXRvL2Zl"
+        "gpod": " https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3ZhdG90YXRvL2Zl",
+        "youtube": "https://www.youtube.com/channel/UCzJtxFszvtDPSXVaeLQIUjA"
     }
 ]
